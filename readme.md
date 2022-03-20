@@ -43,7 +43,7 @@
 
 | ![Hari's github stats](https://github-readme-stats.vercel.app/api?username=priyadhanu14&show_icons=true&theme=tokyonight) | ![Hari GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyadhanu14&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyadhanu14&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=priyadhanu14&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyadhanu14&show_icons=true&locale=en&layout=compact" alt="priyadhanu14" /></p>username=priyadhanu14&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 <br>
