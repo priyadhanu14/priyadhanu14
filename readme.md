@@ -3,14 +3,9 @@
 <p align='center'>
 </p>
 
-<div size='20px'> Hi! My name is Haripriya. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-# Hi, I'm Haripriya Dhanasekaran 👋
 
 🎓 Master's Student in Computer Science @ University of Washington Bothell  
 🧠 ML Engineer | Graph Neural Networks | MLOps | LLMs | PyTorch  
@@ -31,7 +26,6 @@
 
 ## 📫 Let’s Connect!
 [LinkedIn](https://www.linkedin.com/in/haripriyadhanasekaran14) | [Email](mailto:haripriyadhanasekaran14@gmail.com)
-username=priyadhanu14&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="priyadhanu14" />
 
 <br>
 
