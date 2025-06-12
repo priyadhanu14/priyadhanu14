@@ -10,36 +10,28 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+# Hi, I'm Haripriya Dhanasekaran 👋
 
-- 🌱 I’m currently learning MERN Stack.
-  
-- 👯 I’m looking to collaborate on exciting projects.
-    
-- ⚡ Fun fact: Me gusta cocinar y relajarme.
+🎓 Master's Student in Computer Science @ University of Washington Bothell  
+🧠 ML Engineer | Graph Neural Networks | MLOps | LLMs | PyTorch  
+🚀 Building intelligent systems at the intersection of graph learning, model explainability, and scalable ML pipelines.
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+## 💼 What I Work On
+- 🧩 **Graph Neural Networks (GNNs)** – Training scalable GCNs on 10k-node brain graphs (4TB HDF5) with PyTorch Geometric.
+- 🧠 **LLM Explainability** – Built CodeGuard AI using LangChain + GPT-4 to detect and explain software vulnerabilities.
+- 🛠️ **MLOps and Infra** – Deployed FastAPI apps on AWS ECS, tracked 180k+ metrics with MLflow, CI/CD via GitHub Actions.
+- 🔄 **Distributed Systems** – Spark + MPI-powered optimization for large-scale search problems (e.g., TSP Solver).
 
+## 📌 Key Tools
+`Python`, `PyTorch`, `PyG`, `FastAPI`, `MLflow`, `LangChain`, `Docker`, `AWS`, `Spark`, `React.js`, `SQL`, `CI/CD`
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/haripriya-dhanasekaran-766794191/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-  
-<br>
-<br>
-  <br>
-  
+## 📚 Publications
+- *MRI Super-Resolution with GAN & DWT* – IEEE '22  
+- *AI in Manufacturing* – IJTRET '23  
 
-| ![Hari's github stats](https://github-readme-stats.vercel.app/api?username=priyadhanu14&show_icons=true&theme=tokyonight) | ![Hari GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyadhanu14&theme=tokyonight) |
-| --- | --- |
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyadhanu14&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="priyadhanu14" />
+## 📫 Let’s Connect!
+[LinkedIn](https://www.linkedin.com/in/haripriyadhanasekaran14) | [Email](mailto:haripriyadhanasekaran14@gmail.com)
+username=priyadhanu14&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="priyadhanu14" />
 
 <br>
 
